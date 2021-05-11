@@ -122,22 +122,3 @@ val export_dir = "/mnt/auto/misc/download.gbif.org/custom_download/jwaller/"
 (s"head " + export_dir + save_table_name + ".tsv")!
 val header = "1i " + df_export.columns.toSeq.mkString("""\t""")
 Seq("sed","-i",header,export_dir+save_table_name+".tsv").!
-
-// The the table give you the most wanted strings that are likely not garbage to be matches
-// yarn application -kill application_1607538765634_363875
-
-
-// (s"ls -lh " + export_dir)!
-// (s"rm -r " + export_dir + save_table_name + ".zip")!
-// (s"zip -j " + export_dir + save_table_name + ".zip" + " " + export_dir + save_table_name +".tsv")! // no junk paths
-// (s"ls -lh " + export_dir)!
-// (s"rm -r " + export_dir + save_table_name +".tsv")!
-
-
-// curl -X POST -H "Content-Type: text/plain" --data "@request.txt" https://api.gbif.org/v1/parser/name?name= > output.json
-
-
-
-
-// df_matchable_names.show()
-
