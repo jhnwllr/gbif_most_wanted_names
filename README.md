@@ -38,6 +38,8 @@ The most wanted names according to the most recent run.
 
 find the full dataset [here](http://download.gbif.org/custom_download/jwaller/gbif_most_wanted_names.tsv).
 
+Names like "Sterile sorediate crust" might need to be added to the blacklist. 
+
 ## How to run
 
 This is simply a scala-spark script. It could be developed further into something that runs periodically or after each backbone build to compare wanted names. 
