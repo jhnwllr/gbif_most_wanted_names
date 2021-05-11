@@ -1,0 +1,233 @@
+Value	Concept
+(L.)	
+?	
+CLASS	CLASS
+Clade	
+Clase	CLASS
+Class	CLASS
+Classe	CLASS
+Collective taxon	
+Cultivar	
+Division	
+ES	
+ESPECIE	SPECIES
+Esp	SPECIES
+Espece	SPECIES
+Especie	SPECIES
+Especies	SPECIES
+Espèce	SPECIES
+Espècie	SPECIES
+Espécie	SPECIES
+Esp�ce	SPECIES
+FAMILIA	FAMILY
+FAMILY	FAMILY
+FORM	FORM
+FORMA	FORM
+Familia	FAMILY
+Famille	FAMILY
+Family	FAMILY
+Família	FAMILY
+Filo	PHYLUM
+Form	FORM
+Forma	FORM
+GENERO	GENUS
+GENUS	GENUS
+Genero	GENUS
+Genre	GENUS
+Genus	GENUS
+Gènere	GENUS
+Género	GENUS
+Gênero	GENUS
+HYBRID	
+Hybrid	
+Infraclass	INFRACLASS
+Infraorder	INFRAORDER
+KINGDOM	KINGDOM
+Kingdom	KINGDOM
+L.	
+Morfotyp	
+Morph	MORPH
+NA	
+ORDER	ORDER
+Orden	ORDER
+Order	ORDER
+Ordre	ORDER
+Organism group	
+PHYLUM	PHYLUM
+Phylum	PHYLUM
+Race	
+Reino	KINGDOM
+SECTION	
+SPECIES	SPECIES
+SSES	
+SUBFAMILY	SUBFAMILY
+SUBSPECIES	SUBSPECIES
+SUB_ESPECIE	SUBSPECIES
+SUB_FAMILIA	SUBFAMILY
+Sección	
+Section	
+Sous-espèce	
+Specie	SPECIES
+Species	SPECIES
+Species aggregate	
+Species complex	
+Species group	
+Species hybrid	
+SubClass	SUBCLASS
+SubFamily	SUBFAMILY
+SubSpecies	SUBSPECIES
+Subclase	SUBCLASS
+Subclass	SUBCLASS
+Subdivision	
+Subespecie	SUBSPECIES
+Subespècie	SUBSPECIES
+Subfamilia	SUBFAMILY
+Subfamily	SUBFAMILY
+Subform	SUBFORM
+Subgenus	SUBGENUS
+Subgénero	SUBGENUS
+Suborden	SUBORDER
+Suborder	SUBORDER
+Subphylum	SUBPHYLUM
+Subspec	SUBSPECIES
+Subspecies	SUBSPECIES
+Subvariety	SUBVARIETY
+Superclass	SUPERCLASS
+Superfamilia	SUPERFAMILY
+Superfamily	SUPERFAMILY
+Superorder	SUPERORDER
+Tribe	TRIBE
+Tribu	TRIBE
+VARIEDADE	VARIETY
+VARIETY	VARIETY
+Var.	VARIETY
+Variedad	VARIETY
+Varietas	
+Variety	VARIETY
+Variété	VARIETY
+aberration	
+affinis	
+agg.	
+aggregate	
+chinensis	
+clase	CLASS
+class	CLASS
+classis	CLASS
+concolor	
+cultivar	CULTIVAR
+cv.	
+division	
+especie	SPECIES
+espécie	SPECIES
+f	
+f.	
+f.)	
+fallax	
+fam.	FAMILY
+familia	FAMILY
+family	FAMILY
+família	FAMILY
+fo.	
+form	FORM
+form.	FORM
+forma	FORM
+forma specialis	FORMA_SPECIALIS
+functional group	
+gen	GENUS
+gen.	GENUS
+generic hybrid	
+genero	GENUS
+genus	GENUS
+gigantea	
+group	
+género	GENUS
+gênero	GENUS
+hybrid	
+indica	
+infraclass	INFRACLASS
+infragenericHybrid	
+infraorder	INFRAORDER
+infraspecificname	
+insularis	
+intermedia	
+japonica	
+japonicus	
+kingdom	KINGDOM
+major	
+microspecies	
+montanus	
+multispecies	
+nipponica	
+nipponum	
+no rank	UNRANKED
+nothospecies	
+nothosubspecies	
+nothovariety	
+orde	ORDER
+ordem	ORDER
+orden	ORDER
+order	ORDER
+orientalis	
+pallescens	
+phylum	PHYLUM
+sect.	SECTION
+section	SECTION
+section botany	
+series	SERIES
+series botany	
+sp.	SPECIES
+specie	SPECIES
+species	SPECIES
+species aggregate	SPECIES_AGGREGATE
+species group	
+species hybrid	
+species inquirenda	
+species pro parte	
+species sensu lato	
+speciesAggregate	
+specificEpithet	
+ssp	SUBSPECIES
+ssp.	SUBSPECIES
+sub family	SUBFAMILY
+sub genus	SUBGENUS
+sub order	SUBORDER
+sub species	SUBSPECIES
+subFamily	SUBFAMILY
+subGenus	SUBGENUS
+subOrder	SUBORDER
+subSpecies	SUBSPECIES
+subTribe	SUBTRIBE
+subclass	SUBCLASS
+subespecie	SUBSPECIES
+subespecies	SUBSPECIES
+subespécie	SUBSPECIES
+subfamily	SUBFAMILY
+subfamília	SUBFAMILY
+subgenus	SUBGENUS
+subkingdom	SUBKINGDOM
+subordem	SUBORDER
+suborder	SUBORDER
+subphylum	SUBPHYLUM
+subsp	SUBSPECIES
+subsp.	SUBSPECIES
+subspecies	SUBSPECIES
+subspecies hybrid	
+subspecificAggregate	
+subtribe	SUBTRIBE
+subvar.	SUBVARIETY
+subvariety	SUBVARIETY
+super kingdom	SUPERKINGDOM
+superclass	SUPERCLASS
+superfamily	SUPERFAMILY
+superorder	SUPERORDER
+synonym	
+tribe	TRIBE
+unranked	UNRANKED
+var	
+var.	
+variedad	VARIETY
+varietal hybrid	
+varietas	
+variety	VARIETY
+x	
+×	
