@@ -38,21 +38,21 @@ find the full dataset [here](http://download.gbif.org/custom_download/jwaller/gb
 
 This is simply a scala-spark script. It could be developed further into something that runs periodically or after each backbone build to compare wanted names. 
 
-Setup 
+Setup copy **taxon_rank_mappings.tsv** to hdfs. 
 
 ```shell
+FILE_NAME="taxon_rank_mappings.tsv" 
+COPY_DIR="/cygdrive/c/Users/ftw712/Desktop/gbif_most_wanted_names/data/"
+scp -r $COPY_DIR$FILE_NAME jwaller@c5gateway-vh.gbif.org:/home/jwaller/
 
-
-
+ssh jwaller@c5gateway-vh.gbif.org
+hdfs dfs -put taxon_rank_mappings.tsv
 ```
 
-Run matchable names 
+Run the scala script [matchable_names.scala](https://github.com/jhnwllr/gbif_most_wanted_names/blob/master/scala/matchable_names.scala).
 
-You can 
-
-```scala 
-
-
+```shell
+spark2-shell
 ```
 
 
