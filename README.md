@@ -2,7 +2,7 @@
 
 What is a "most wanted name"? 
 
-It is a **species-rank name that does not match to the GBIF backbone**. A names in this context is any "reasonable looking" string of characters. Since un-interpreted free text from data publishers can vary significantly, **it is necessary filter these verbatim names to get back something worth pursing**. 
+It is a **species-rank name that does not match to the GBIF backbone**. A names in this context is any "reasonable looking" string of characters. Since un-interpreted free text from data publishers can vary significantly, **it is necessary filter these verbatim names to get back something worth pursuing**. 
 
 A "reasonable looking" binomial name has the following properties according to the most wanted names script: 
 
